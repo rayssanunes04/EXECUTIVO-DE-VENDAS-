@@ -1,0 +1,16 @@
+- [x] Simplificar upload para principal e histórico, lendo supervisor da principal.
+- [x] Restringir famílias e permitir seleção múltipla de representantes.
+- [x] Manter meses por ano, testar leitura e filtros, verificar o painel.
+- [x] Restaurar Supervisor sempre visível e ler Supervisor Kids da principal.
+- [x] Cruzar vendedores com supervisor e validar totais, gráfico e tabela sem uploads extras.
+- [x] Criar vínculos permanentes de representantes e supervisores, com acesso protegido.
+- [x] Adicionar abas de envio diário e cadastro por planilha ou edição manual.
+- [x] Ler arquivos Sheet1 do Power BI e aplicar vínculos no envio geral.
+- [x] Manter filtros e validar cadastro, persistência e cruzamento sem alterar a base real.
+- [x] Unificar modal em sete campos e permitir atualizar somente vínculos.
+- [x] Adicionar desempenho clicável por supervisor e testar não duplicação dos valores.
+- [x] Permitir representante em várias equipes por família e usar linhas individuais nos empates, mantendo geral separada.
+- [x] Refinar tabelas empilhadas, totais fixos e indicadores no azul institucional; verificar em desktop e telas estreitas.
+- [ ] Compactar topo e adicionar filtro Status da Meta com limites testados.
+- [ ] Adicionar histórico mensal da planilha e ranking dos dez representantes filtrados.
+- [ ] Truncar nomes nas tabelas e verificar filtros, gráficos e valores em desktop e celular.
